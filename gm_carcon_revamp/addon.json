@@ -1,6 +1,0 @@
-{
-"title" : "gm_carcon_revamp",
-"type" : "map",
-"tags" : "build",
-"ignore" : ["*.psd", "*.vcproj", "*.svn*"]
-}
